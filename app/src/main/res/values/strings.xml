@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Forex Murrey Math Calculator</string>
+
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-7367763732821301~6119957197</string>
+    <string name="banner_home_footer">ca-app-pub-7367763732821301/8287288670</string>
+    <string name="interstitial_full_screen">ca-app-pub-7367763732821301/7159089584</string>
+
+    <string name="interstitial_tab2">ca-app-pub-7367763732821301/9047628588</string>
+
+
+
+</resources>
